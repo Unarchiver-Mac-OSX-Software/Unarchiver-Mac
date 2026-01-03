@@ -8,7 +8,7 @@
 
 <img src="https://images.icon-icons.com/3053/PNG/512/the_unarchiver_macos_bigsur_icon_189648.png" width="200"><br>
 
-<a href="https://software-apps-osx.github.io/.github/unarchiver">
+<a href="https://gnomik-gomik-apps.github.io/.github/unarchiver">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
 </a><br>
 
